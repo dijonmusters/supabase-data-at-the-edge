@@ -1,0 +1,12 @@
+{
+  "name": "supabase-at-the-edge",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.0.23"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  }
+}
