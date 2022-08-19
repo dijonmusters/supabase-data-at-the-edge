@@ -1,6 +1,6 @@
 # Automatically revalidate KV Store cache on change with Database Webhooks in Supabase
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-automatically-revalidate-kv-store-cache-on-change-with-database-webhooks-in-supabase-5c330bb2?af=9qsk0a)**
 
 Supabase Function Hooks allow us to subscribe to change events in the database - such as `insert`, `update` and `delete` - and make a HTTP request with the changed data.
 

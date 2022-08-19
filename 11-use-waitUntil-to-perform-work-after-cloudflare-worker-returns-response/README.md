@@ -1,6 +1,6 @@
 # Use waitUntil to perform work after Cloudflare Worker returns response
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-use-waituntil-to-perform-work-after-cloudflare-worker-returns-response?af=9qsk0a)**
 
 The `waitUntil` function allows us to continue performing work in our Cloudflare Worker, after a response has been sent back to the client.
 

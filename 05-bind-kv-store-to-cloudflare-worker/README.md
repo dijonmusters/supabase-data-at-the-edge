@@ -1,6 +1,6 @@
 # Bind a KV store to Cloudflare Worker
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-bind-a-kv-store-to-cloudflare-worker?af=9qsk0a)**
 
 KV Storage is a cache that Cloudflare makes available within our Workers. It replicates across multiple CDN nodes, making it a super performant way to cache data.
 

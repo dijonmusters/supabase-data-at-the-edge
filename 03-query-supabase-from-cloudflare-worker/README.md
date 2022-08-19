@@ -1,6 +1,6 @@
 # Query Supabase from Cloudflare Worker
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/cloudflare-query-supabase-from-cloudflare-worker?af=9qsk0a)**
 
 Supabase JS is an NPM package which provides a simple interface from JavaScript to our Supabase project. It allows us to query and mutate data using its Object Relational Mapping (ORM) syntax, and subscribe to realtime events.
 

@@ -1,6 +1,6 @@
 # Cache Supabase response at the Edge with KV storage
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-cache-supabase-response-at-the-edge-with-kv-storage?af=9qsk0a)**
 
 KV Storage allows us to cache a value as close as possible to our Cloudflare Worker. The first time a user navigates to a route, we don't have the data in the cache, so we need to make a request to the Supabase origin server.
 

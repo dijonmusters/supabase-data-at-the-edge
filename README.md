@@ -1,15 +1,10 @@
-# [Supabase data at the Edge with Cloudflare Workers and KV Storage](TODO: Add link to new course)
+# [Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959?af=9qsk0a)
 
-<!-- TODO! Add artwork -->
-<!-- TODO! Record course promo video -->
-<!-- <a href="https://www.youtube.com/watch?v=J-UStg7te6M">
-  <img
-    src="https://i.imgur.com/wYqUzGe.png"
-    alt="Course artwork"
-  />
-</a> -->
+<a href="https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959?af=9qsk0a">
+  <img src="https://og-image-react-egghead.now.sh/playlists/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959?v=20201103" alt="Cache Supabase data at the Edge with Cloudflare Workers and KV Storage" width="100%" />
+</a>
 
-> This repo accompanies this [free egghead course](TODO! Add egghead course link).
+> This repo accompanies this [free egghead course](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959?af=9qsk0a).
 
 ## 🔍 About
 

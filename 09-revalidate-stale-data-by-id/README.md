@@ -1,6 +1,6 @@
 # Revalidate stale data by ID
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-revalidate-stale-data-by-id?af=9qsk0a)**
 
 Handling revalidation of a particular article requires us to pass through an ID as part of the request's body. Therefore, we need to change this from a GET request to a POST request and use the `withContent` middleware to parse the request's body into a JSON object.
 

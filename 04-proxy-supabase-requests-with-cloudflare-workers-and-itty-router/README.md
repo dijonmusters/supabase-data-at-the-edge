@@ -1,6 +1,6 @@
 # Proxy Supabase requests with Cloudflare Workers and Itty Router
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-proxy-supabase-requests-with-cloudflare-workers-and-itty-router?af=9qsk0a)**
 
 Itty Router is a tiny router package that has a similar API to Express. In this video, we install Itty Router and the Extras packages.
 

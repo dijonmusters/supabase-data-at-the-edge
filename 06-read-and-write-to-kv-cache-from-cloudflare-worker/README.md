@@ -1,6 +1,6 @@
 # Read and write to KV cache from Cloudflare Worker
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/cloudflare-read-and-write-kv-storage-cache-from-cloudflare-worker?af=9qsk0a)**
 
 KV Storage is a read-optimized, eventually consistent cache that can be accessed from Cloudflare Workers. The interface for reading and writing is similar to `localStorage` in the browser.
 

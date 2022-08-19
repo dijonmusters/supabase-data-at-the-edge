@@ -1,6 +1,6 @@
 # Cache-busting with KV stores and Supabase
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/cloudflare-cache-busting-with-cloudflare-kv-stores-and-supabase?af=9qsk0a)**
 
 Cache Busting or Invalidation, is the process of clearing stale data from a cache. After the first request, the response data from Supabase is cached in our KV store, and never fetched again. This means if data in the database changes, our KV store will never be updated.
 

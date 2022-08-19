@@ -1,6 +1,6 @@
 # Create a Supabase project
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/supabase-create-a-supabase-project-2fd6bc77?af=9qsk0a)**
 
 [Supabase](https://app.supabase.com/) is a suite of open-source tools wrapping a PostgreSQL database. It provides the building blocks of an app - database hosting, auth, file storage, realtime and edge functions - so we can focus on the thing that makes our app unique.
 

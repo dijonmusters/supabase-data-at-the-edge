@@ -1,6 +1,6 @@
 # Create a Cloudflare Worker with the Wrangler CLI
 
-**[📹 Video](TODO! Add link to egghead lesson)**
+**[📹 Video](https://egghead.io/lessons/cloudflare-create-a-cloudflare-worker-with-the-wrangler-cli?af=9qsk0a)**
 
 Cloudflare Workers are serverless functions that run at the Edge! 🔪
 
